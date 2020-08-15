@@ -1,0 +1,5 @@
+{
+    "name": "My Express Music App -TESTING-",
+    "jwtPrivateKey": "1234",
+    "db": "mongodb://localhost/MusicStreamer_tests"
+}

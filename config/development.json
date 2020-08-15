@@ -1,0 +1,6 @@
+{
+    "name": "My Express Music App - Development",
+    "mail": {
+        "host": "dev-mail-server"
+    }
+}
