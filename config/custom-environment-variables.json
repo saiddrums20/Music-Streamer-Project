@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "MusicStreamer_jwtPrivateKey"
+    "jwtPrivateKey": "MusicStreamer_jwtPrivateKey",
+    "db": "MusicStreamer_db"
 }
